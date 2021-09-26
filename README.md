@@ -17,12 +17,12 @@ The other issue with pyrotechnic devices and frangibolts, is that they have part
 #### OBJECTIVES
 Your challenge is to design a mechanical separation device that can cut a parachute reefing line, a bolt for an adapter ring, or a cable, or release two parts from each other smoothly in space without pyrotechnics. The device must work quickly and operate without an impact and should be different from existing methods. In addition,
 
-[ ] Your device should survive temperatures of -50C to +80C (heaters can be used to keep the device warm).
-[ ] Your device should operate between 0C to +40C (once again, heaters can be used).
-[ ] No net debris should be allowed to escape. Everything needs to be captured or attached to one static body or the other. If debris escaped, it would create space junk.
-[ ] Provide the minimum volume and mass your device requires. The device should be smaller than a cylinder that is less than 15cm long, by 2cm in diameter, and weigh less than 1 kg.
-[ ] Tell us how many Newtons of force your device can hold together (during launch) or push apart.
-[ ] Try to estimate the reliability of your device. It should work 99.5% of the time or better.
+- [ ] Your device should survive temperatures of -50C to +80C (heaters can be used to keep the device warm).
+- [ ] Your device should operate between 0C to +40C (once again, heaters can be used).
+- [ ] No net debris should be allowed to escape. Everything needs to be captured or attached to one static body or the other. If debris escaped, it would create space junk.
+- [ ] Provide the minimum volume and mass your device requires. The device should be smaller than a cylinder that is less than 15cm long, by 2cm in diameter, and weigh less than 1 kg.
+- [ ] Tell us how many Newtons of force your device can hold together (during launch) or push apart.
+- [ ] Try to estimate the reliability of your device. It should work 99.5% of the time or better.
 
 #### POTENTIAL CONSIDERATIONS
 As you develop your concept, you may (but are not required to) consider the following:
