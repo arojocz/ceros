@@ -1,4 +1,4 @@
-# **Nasa Space Apps Challenge**
+# **Nasa Space Apps Challenge 2021**
 ## CEROS Team
 ## *Let It Go (Without A Bang)*
 
